@@ -15,7 +15,7 @@
 
 #### AutoSAR 🚗
 - Comprehensive training covering Automotive Software Architecture (AutoSAR).
-- Practical skills in AutoSAR implementation, SWCs, RTE, communication protocols (CAN, LIN), and AutoSAR configuration tools.
+- Practical skills in AutoSAR implementation, SWCs, RTE, communication protocols (CAN), and AutoSAR configuration tools.
 - Expertise in diagnosing and handling errors within AutoSAR systems.
 
 #### Ethernet & CAN 🌐
