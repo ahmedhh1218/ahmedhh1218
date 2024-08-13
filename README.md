@@ -12,7 +12,7 @@
 
 ## Experiences
 
-### Mentor and Lecturer for Embedded Systems Training at Garraio LLC (Aug. 2024 – Present)
+### Mentor and Lecturer for Embedded Systems Training at Garraio LLC in Collaboration with Ain Shams University (Aug. 2024 – Present)
 - Provided instruction on C language, Embedded C, and ARM Architecture with practical applications on TivaC TM4C123.
 - Covered topics like GPIO, clock-source, SysTick timer, watchdog timer, interrupts, and UART.
 
